@@ -3,7 +3,7 @@ STEPS TO EXECUTE THE APPLICAITON
 2. run npm run start 
 
 Note:
-Packages used: express, typescript, body-parser, @types/express, @types/node, ts-node, tslint
+Packages used: express, typescript, body-parser, @types/express, @types/node, ts-node, tslint, fixed-width-parser
 
 
 APIs Exposed:
